@@ -48,7 +48,7 @@ Currently available only for version 1.16.5
 - Use **/trigger chaos.stop** if you want to stop the ongoing game
 
 # **Want to report a bug, suggest an effect or a change?**
-Go to issues a create a new one. In the beginning of the title put something like (Effect) or (Bug) to label it, and then type the thing you want
+Go to issues and create a new one. In the beginning of the title put something like (Effect) or (Bug) to label it, and then type the thing you want
 
 # **Enjoy the chaos!**
 I'm not that good at making datapacks, but I just wanted to make this since I had so much fun watching and playing runs with the GTA Chaos Mod, so thanks to Lordmau5, pongo1231, Bart de Bever, and Parik27 for making it!
