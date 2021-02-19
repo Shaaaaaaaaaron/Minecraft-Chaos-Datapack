@@ -2,6 +2,8 @@
 
 A challenge datapack for Minecraft, inspired by the GTA Chaos Mod.
 
+**[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
+
 # **About**
 **-Every 60 seconds you will get a complete random effect**
   - Such as: Spawn a mob, get an item, or something crazier, like an anvil apocalypse or start a raid!
@@ -17,6 +19,7 @@ A challenge datapack for Minecraft, inspired by the GTA Chaos Mod.
   - For now, it only works with players inside the world on spectator mode, since I don't have modding knowledge to do something like a Twitch chat voting thingy
 
 # **How to install a datapack**
+- **[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
 - Install on a new Minecraft world:
   - Go and click create new world
   - Click **Data Packs**
