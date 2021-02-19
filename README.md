@@ -5,7 +5,7 @@ A challenge datapack for Minecraft, inspired by the GTA Chaos Mod.
 **[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
 
 # **About**
-**-Every 60 seconds you will get a complete random effect**
+**- Every 60 seconds you will get a complete random effect**
   - Such as: Spawn a mob, get an item, or something crazier, like an anvil apocalypse or start a raid!
     - Inside the .zip there's a text file with a list of all effects, if you're curious
   - Most effects last 3 minutes, but in some cases they last for 1 minute, 30 seconds or less
