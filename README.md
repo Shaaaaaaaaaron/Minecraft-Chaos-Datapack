@@ -9,6 +9,7 @@ Currently available only for version 1.16.5
 # **About**
 **Every 60 seconds you will get a complete random effect**
   - Such as: Spawn a mob, get an item, or something crazier, like an anvil apocalypse or start a raid!
+  - There are currently a total of **141 effects!**
     - Inside the .zip there's a text file with a list of all effects, if you're curious
   - Most effects last 3 minutes, but in some cases they last for 1 minute, 30 seconds or less
     - There's also a mode with less cooldown on effects, so you get one every 30 seconds, but all the effects will last half of their usual time
@@ -51,7 +52,7 @@ Currently available only for version 1.16.5
 Go to issues and create a new one. In the beginning of the title put something like (Effect) or (Bug) to label it, and then type the thing you want
 
 # **Enjoy the chaos!**
-I'm not that good at making datapacks, but I just wanted to make this since I had so much fun watching and playing runs with the GTA Chaos Mod, so thanks to Lordmau5, pongo1231, Bart de Bever, and Parik27 for making it!
+I'm not that good at making datapacks, and this is the first time I post a big one online, but I just wanted to make this since I had so much fun watching and playing runs with the GTA Chaos Mod, so thanks to Lordmau5, pongo1231, Bart de Bever, and Parik27 for making it!
 
 # **Twitch voting mode?**
 As I said above, I don't have any modding knowledge, so I can't figure out a way to make this happen. I thought I could get someone who knows to help me do it, but I don't know anyone. So, if you like this datapack and have/know someone who knows how to make mods for the game and implement this, send me a DM on discord! Shaaron#6215 :)
