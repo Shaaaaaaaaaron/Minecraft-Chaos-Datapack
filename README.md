@@ -19,7 +19,7 @@ Currently available only for version 1.16.5
   - Every 30 seconds, spectators will get a poll with 3 effects to vote for, then another 30 seconds after, the effect will be applied (one effect per minute)
     - If there is a tie, a random effect from the poll will be selected
   - Also includes a mode with more cooldown on effects, so you get one every 1:30 minutes, but they last 50% more of their usual time
-  - For now, it only works with players inside the world on spectator mode, since I don't have modding knowledge to do something like a Twitch chat voting thingy
+  - For now, it only works with players inside the world on spectator mode, since I don't have modding knowledge to do something like a Twitch chat voting thingy (pls help if you know)
 
 # **How to install a datapack**
 - **[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
