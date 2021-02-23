@@ -1,7 +1,5 @@
 # Minecraft Chaos Datapack
-A challenge datapack for Minecraft, inspired by the GTA Chaos Mod.
-
-Currently available only for version 1.16.5
+A challenge datapack inspired by the GTA Chaos Mod.
 
 **[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
 
