@@ -3,6 +3,8 @@ A challenge datapack inspired by the GTA Chaos Mod.
 
 **[Download the datapack](https://github.com/Shaaaaaaaaaron/Minecraft-Chaos-Datapack/releases)**
 
+Contact me on Twitter: [Shaaaaaaaaaron_](https://twitter.com/Shaaaaaaaaaron_?s=09) (English/Español) 
+
 [Planet Minecraft link](https://www.planetminecraft.com/data-pack/minecraft-chaos-datapack/) (support is appreciated) <3
 
 # **About**
