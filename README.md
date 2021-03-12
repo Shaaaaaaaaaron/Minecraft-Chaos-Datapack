@@ -11,7 +11,7 @@ Contact me on Twitter: [Shaaaaaaaaaron_](https://twitter.com/Shaaaaaaaaaron_?s=0
 **Every 60 seconds you will get a complete random effect**
   - Such as: Spawn a mob, get an item, or something crazier, like an anvil apocalypse or start a raid!
   - There are currently a total of **140 effects!**
-    - Inside the .zip there's a text file with a list of all effects, if you're curious
+  - [Click this to view the list of all effects!](https://docs.google.com/spreadsheets/d/1taJjwcfAem1YCOcnlo-Aj3BYli4E7FiQ5ColhcVLNak/edit#gid=0)
   - Most effects last 3 minutes, but in some cases they last for 1 minute, 30 seconds or less
     - There's also a mode with less cooldown on effects, so you get one every 30 seconds, but all the effects will last half of their usual time
     
@@ -48,6 +48,37 @@ Contact me on Twitter: [Shaaaaaaaaaron_](https://twitter.com/Shaaaaaaaaaron_?s=0
 
 - After you're done, click **start!**
 - Use **/trigger chaos.stop** if you want to stop the ongoing game
+
+# **Disabling and enabling effects**
+
+In case you don't like some effects...
+
+- You'll need to enable cheats in order to do this
+- To disable an effect, use this command:
+"/function mcchaos:disable/(effect_category)/(effect_name)"
+- To enable an effect, use this command:
+"/function mcchaos:enable/(effect_category)/(effect_name)"
+
+For reference on the effect categories, [read this!](https://docs.google.com/spreadsheets/d/1taJjwcfAem1YCOcnlo-Aj3BYli4E7FiQ5ColhcVLNak/edit#gid=0)
+
+# **Presets**
+
+Play some games with specific effects toggled on!
+
+- You'll need to enable cheats in order to use this
+- To select a preset, use this command:
+"function mcchaos:presets/(preset_name)"
+
+List of presets:
+- Everything on (All effects enabled. Default when installed for the first time on a world)
+- Everything's good (positive effects only)
+- Everything's bad (negative effects only)
+- Mob effects only
+- Player effects only
+- Custom effects only
+- No teleport and terrain modification
+- Speedrun
+- Ultra Random
 
 # **Want to report a bug, suggest an effect or a change?**
 Go to issues and create a new one. In the beginning of the title put something like (Effect) or (Bug) to label it, and then type the thing you want
