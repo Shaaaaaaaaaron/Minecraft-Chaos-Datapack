@@ -10,7 +10,7 @@ Contact me on Twitter: [Shaaaaaaaaaron_](https://twitter.com/Shaaaaaaaaaron_?s=0
 # **About**
 **Every 60 seconds you will get a complete random effect**
   - Such as: Spawn a mob, get an item, or something crazier, like an anvil apocalypse or start a raid!
-  - There are currently a total of **150 effects!**
+  - There are currently a total of **175 effects!**
   - [Click this to view the list of all effects!](https://docs.google.com/spreadsheets/d/1taJjwcfAem1YCOcnlo-Aj3BYli4E7FiQ5ColhcVLNak/edit#gid=0)
   - Most effects last 3 minutes, but in some cases they last for 1 minute, 30 seconds or less
     - There's also a mode with less cooldown on effects, so you get one every 30 seconds, but all the effects will last half of their usual time
